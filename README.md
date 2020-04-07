@@ -5,8 +5,6 @@ Dado ao momento em que o mundo está passando com a pandemia COVID19, resolvi es
 O Data Set de imagens e o código estão no endereço: 
 https://www.kaggle.com/paultimothymooney/detecting-pneumonia-in-x-ray-images/data
 
-As imagens foram salvas em .
-
 Para processar o modelo foi necessário:
 •	Salvar as imagens em um diretório local
 •	Importar diversas bibliotecas, como por exemplo o sklearn e keras
