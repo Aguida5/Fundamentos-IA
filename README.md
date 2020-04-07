@@ -21,3 +21,8 @@ Foram plotadas múltiplas imagens rotuladas como “Sem Pneumonia” e “Com Pn
 Para a predição foram consideradas o numero de classes e uma função de ativação denominada de “softmax”.
 
 A acurácia inicial foi de 82% e após o recalculo a acurácia foi de 79,9%.
+
+
+Fundamentos-IA - Trabalho 2
+
+Os comentários encontram-se no código.
