@@ -1,4 +1,4 @@
-# Fundamentos-IA - Trabalho 1
+# Fundamentos-IA - Trabalho 1 
 
 Dado ao momento em que o mundo está passando com a pandemia COVID19, resolvi escolher o seguinte código contendo o Data Set com imagens de RAIO X que serão avaliadas pela rede para identificar se os pacientes tem ou não PNEUMONIA, o que é uma característica da virose.
 
@@ -22,7 +22,7 @@ Para a predição foram consideradas o numero de classes e uma função de ativa
 
 A acurácia inicial foi de 82% e após o recalculo a acurácia foi de 79,9%.
 
+# Fundamentos-IA - Trabalho 2
 
-Fundamentos-IA - Trabalho 2
+# Os comentários encontram-se no próprio código.
 
-Os comentários encontram-se no código.
