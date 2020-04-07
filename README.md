@@ -1,4 +1,4 @@
-# Fundamentos-IA
+# Fundamentos-IA - Trabalho 1
 
 Dado ao momento em que o mundo está passando com a pandemia COVID19, resolvi escolher o seguinte código contendo o Data Set com imagens de RAIO X que serão avaliadas pela rede para identificar se os pacientes tem ou não PNEUMONIA, o que é uma característica da virose.
 
