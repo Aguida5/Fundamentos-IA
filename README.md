@@ -6,12 +6,19 @@ O Data Set de imagens e o código estão no endereço:
 https://www.kaggle.com/paultimothymooney/detecting-pneumonia-in-x-ray-images/data
 
 Para processar o modelo foi necessário:
+
 •	Salvar as imagens em um diretório local
+
 •	Importar diversas bibliotecas, como por exemplo o sklearn e keras
+
 •	Data Set com + de 3.000 imagens – > sendo que o conjunto de treinamento utilizou 2.682  imagens e o 
+
 restante delas foram utilizadas para efetuar a validação do modelo
+
 •	Para cada conjunto de treinamento foram usadas duas (2) classes
-•	6 épocas, sendo que a cada finalização de uma época, foi rodado call-back para salvar métricas a cada época finalizada;
+
+•	6 épocas, sendo que a cada finalização de uma época, foi rodado call-back para salvar métricas a cada época finalizada
+
 •	Pesos das classes antigas e novos pesos das classes
 
 Foram plotadas múltiplas imagens rotuladas como “Sem Pneumonia” e “Com Pneumonia”.
